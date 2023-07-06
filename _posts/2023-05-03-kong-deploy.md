@@ -11,7 +11,7 @@ tags:
 
 > Kong
 
-In today's world, APIs are an essential part of any software system. They enable software components to interact with each other, making it easier to build complex systems. Kong is a popular open-source API gateway that simplifies the process of managing APIs. In this blog post, we will explore how to deploy Kong using Docker Compose.
+In today's world, APIs are an essential part of any software system. They enable software components to interact with each other, making it easier to build complex systems. [Kong](https://github.com/Kong/kong) is a popular open-source API gateway that simplifies the process of managing APIs. In this blog post, we will explore how to deploy Kong using Docker Compose.
 
 Docker Compose is a tool that simplifies the process of deploying multi-container Docker applications. Here is an example Docker Compose file for deploying Kong:
 
