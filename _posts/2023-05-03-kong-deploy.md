@@ -100,12 +100,10 @@ networks:
 ### Kong commands
 
 ```
-
 kong restart -c /etc/kong/kong.conf
 kong migrations bootstrap -c /etc/kong/kong.conf
 kong start -c /etc/kong/kong.conf --vv
 kong stop
-
 ```
 
 — Fugui，Data engineer、Machine learning Engineer、Software Engineer.
