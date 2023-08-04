@@ -13,6 +13,8 @@ tags:
 
 In today's world, APIs are an essential part of any software system. They enable software components to interact with each other, making it easier to build complex systems. [Kong](https://github.com/Kong/kong) is a popular open-source API gateway that simplifies the process of managing APIs. In this blog post, we will explore how to deploy Kong using Docker Compose.
 
+### Setting up Kong
+
 Docker Compose is a tool that simplifies the process of deploying multi-container Docker applications. Here is an example Docker Compose file for deploying Kong:
 
 ```shell
@@ -93,6 +95,17 @@ volumes:
 networks:
   kong-net:
     external: false
+```
+
+### Kong commands
+
+```
+
+kong restart -c /etc/kong/kong.conf
+kong migrations bootstrap -c /etc/kong/kong.conf
+kong start -c /etc/kong/kong.conf --vv
+kong stop
+
 ```
 
 — Fugui，Data engineer、Machine learning Engineer、Software Engineer.
