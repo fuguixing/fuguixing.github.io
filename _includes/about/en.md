@@ -1,8 +1,8 @@
 Hey, I am Fugui Xing (a.k.a. _@fuguixing_). 
 
-I am an innovative data engineer with a focus on data engineering and data science. With over 14 years of experience, I am skilled in designing and implementing data pipelines, building scalable and fault-tolerant data architectures, and developing machine learning models. Proficient in programming languages such as Python and Java. My background includes a Master's degree in science and multiple publications in core journals and EI conferences in the field of psychology and machine learning. I also hold a Top Rated Plus badge on international freelance platforms such as Upwork and have worked with clients from various countries, delivering value through my development and machine learning skills. 
+Innovative engineer with over 17 years of development experience, possessing a powerful blend of expertise in data engineering, data science, and software engineering. I am skilled in designing and implementing data pipelines, building scalable and fault-tolerant data architectures, and developing machine learning models. Proficient in programming languages such as Python and Java. My background includes a Master's degree in science and multiple publications in core journals and EI conferences in the field of psychology and machine learning. I also hold a Top Rated Plus badge on international freelance platforms such as Upwork and have worked with clients from various countries, delivering value through my development and machine learning skills. 
 
-Currently, I am serving as a Senior Data Engineer for Jijian Huitong, where I am responsible for developing cutting-edge and scalable applications using Python and a wide range of technologies including Flask, Django, Airflow, MySql, Kafka, Spark, Docker, Kubernetes, and Go. 
+Currently, I am serving as a Senior Software Engineer for Jijian Huitong, where I am responsible for developing cutting-edge and scalable applications using Python and a wide range of technologies including Flask, Django, Airflow, MySql, Kafka, Spark, Docker, Kubernetes, and Go. 
 
 Highlights of Technical Skills:
 
